@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 2. dwd
  -dwadawd
 -dawd
-
+   
 First|Second
 -|-
 1|2
@@ -33,3 +33,8 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+- [x] Second task
+- [ ] Third task
+
+/code
