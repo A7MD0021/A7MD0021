@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... dddd
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ... Cloud and DevOps
+  
