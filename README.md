@@ -37,4 +37,4 @@ var sum = first + second;
 - [x] Second task
 - [ ] Third task
 
-/code
+
